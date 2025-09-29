@@ -1,6 +1,6 @@
 package view;
 
-import model.Producto;
+import modelo.Producto;
 
 import javax.swing.table.AbstractTableModel;
 import java.util.List;
