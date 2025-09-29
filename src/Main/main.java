@@ -1,6 +1,5 @@
 package main;
 
-import model.ProductoRepositorioArreglo;
 import view.ProductoView;
 import controller.ProductoController;
 

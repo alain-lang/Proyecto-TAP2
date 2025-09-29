@@ -1,11 +1,9 @@
 package controller;
 
 import model.Producto;
-import model.ProductoRepositorioArreglo;
 import view.ProductoTableModel;
 import view.ProductoView;
 
-import javax.swing.*;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 
