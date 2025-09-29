@@ -1,6 +1,6 @@
 package controller;
 
-import model.Producto;
+import M.Producto;
 import view.ProductoTableModel;
 import view.ProductoView;
 
